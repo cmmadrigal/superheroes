@@ -1,0 +1,40 @@
+.card {
+    padding: 10px;
+    margin: 50px auto;
+    width: 250px;
+    height: 450px;
+    text-align: justify;
+    align-content: center;
+    float: left;
+    border: 1px solid;
+    text-align: center;
+
+}
+.colums{
+   margin-left: 50px;
+}
+.card-img-top{
+    padding: 10px;
+    margin: 10px;
+    width: 57%;
+    height: 45%;
+    margin: auto;
+    border-radius: 10%;
+    align-self: center;
+    vertical-align: auto;
+    text-overflow: ellipsis;
+}
+
+.im{
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    height: 180px;
+    align-self: center;
+    vertical-align: top;
+  
+}
+
+.card-title{
+text-align: center;
+}
